@@ -1,0 +1,15 @@
+{
+  "logs": {
+    "path": ".\\"
+  },
+  "keys": {
+    "path_priv": ".\\lib\\keys\\id_rsa",
+    "path_pub": ".\\lib\\keys\\id_rsa.pub"
+  },
+  "db": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "root",
+    "database": "haidar"
+  }
+}

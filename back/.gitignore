@@ -1,0 +1,7 @@
+db/*
+tmp/*
+config.json
+.idea
+!.gitignore
+lib/Crons/lock_files/*
+*.log
